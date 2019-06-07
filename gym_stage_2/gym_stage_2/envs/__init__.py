@@ -1,0 +1,1 @@
+from gym_stage_2.envs.foo_env import FooEnv
